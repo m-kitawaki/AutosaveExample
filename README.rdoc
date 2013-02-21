@@ -1,0 +1,4 @@
+== ActiveRecord autosave option Example
+
+Parent model has children
+
